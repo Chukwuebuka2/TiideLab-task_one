@@ -7,7 +7,7 @@ This project was created to learn how to use the git commands
 
 ## Requirements
 1. Download and install the [Git](https://git-scm.com/downloads) CLI tool
-2. Create an account on [Github](https://github.com/signup?user_email=&source=form-home-signup) or [Sign up](httpps://github.com/login) if you have an account
+2. Create an account on [Github](https://github.com/signup?user_email=&source=form-home-signup) or [Sign In](httpps://github.com/login) if you have an account
 
 ## Uploading your code
 1. Create a new repository
